@@ -34,7 +34,7 @@
       -ms-writing-mode: vertical-rl;
   }
 
-  @media (max-width:768px) {
+  @media (max-width:1024px) {
       .vertical_text {
           writing-mode: horizontal-tb;
           -webkit-writing-mode: horizontal-tb;
