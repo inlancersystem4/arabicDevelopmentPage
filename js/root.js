@@ -2,7 +2,7 @@ tailwind.config = {
     theme: {
         extend: {
             screens: {
-                'mobileUp': '440px',
+                'mobileUp': '460px',
             },
             colors: {
                 'themeColor1': '#685044',
